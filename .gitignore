@@ -1,0 +1,8 @@
+# JetBrains IDEs
+.idea/
+
+# VisualStudioCode
+.vscode/
+
+# macOS system files
+.DS_Store
